@@ -5,3 +5,4 @@ Day 20 - Building the famous Snake Game
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (22/01/2024); update tomorrow.
+  Finished practice (23/01/2024); updated.
